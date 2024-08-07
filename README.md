@@ -20,6 +20,8 @@ Frontier Station 14 це форк [Space Station 14](https://github.com/space-wi
 
 ## Зробити внески
 
+На даний момент, цей форк це просто переклад оригінального репозиторія. Кожна людина може прийняти участь та зробити внесок,
+
 We are happy to accept contributions from anybody. Get in Discord if you want to help. We've got a [list of ideas](https://discord.com/channels/1123826877245694004/1127017858833068114) that can be done and anybody can pick them up. Don't be afraid to ask for help either!
 
 We are not currently accepting translations of the game on our main repository. If you would like to translate the game into another language consider creating a fork or contributing to a fork.
@@ -27,13 +29,13 @@ We are not currently accepting translations of the game on our main repository. 
 If you make any contributions, please make sure to read the markers section in [MARKERS.md](https://github.com/new-frontiers-14/frontier-station-14/blob/master/MARKERS.md)
 Any changes made to files belonging to our upstream should be properly marked in accordance to what is specified there.
 
-## Building
+## Компіляція
 
-1. Clone this repo.
-2. Run `RUN_THIS.py` to init submodules and download the engine.
-3. Compile the solution.
+1. Клонуйте цей репозиторій (`git clone https://github.com/Iced-Coded/frontier-station-14`)
+2. Виконайте скрипт `RUN_THIS.py` аби ініціювати підмодулі та завантажити ігровий двигун.
+3. Скомпілюйте сам проєкт.
 
-[More detailed instructions on building the project.](https://docs.spacestation14.com/en/general-development/setup.html)
+[Більш детальна інструкція по компіляції проєкту (Англійською!)](https://docs.spacestation14.com/en/general-development/setup.html)
 
 ## Юридична інформація
 
