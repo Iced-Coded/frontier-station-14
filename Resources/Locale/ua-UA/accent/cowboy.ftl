@@ -31,8 +31,8 @@ accent-cowboy-replacement-10 = dynamite
 accent-cowboy-words-11 = borg
 accent-cowboy-replacement-11 = tin man
 
-accent-cowboy-words-12 = bye
-accent-cowboy-replacement-12 = so long
+accent-cowboy-words-12 = бувай
+accent-cowboy-replacement-12 = давай бувай
 
 accent-cowboy-words-13 = cell
 accent-cowboy-replacement-13 = pokey
@@ -79,11 +79,11 @@ accent-cowboy-replacement-26 = lickety split
 accent-cowboy-words-27 = fight
 accent-cowboy-replacement-27 = scrap
 
-accent-cowboy-words-28 = food
-accent-cowboy-replacement-28 = grub
+accent-cowboy-words-28 = їжа
+accent-cowboy-replacement-28 = їдло
 
-accent-cowboy-words-29 = friend
-accent-cowboy-replacement-29 = partner
+accent-cowboy-words-29 = друг
+accent-cowboy-replacement-29 = партнер
 
 accent-cowboy-words-30 = goodbye
 accent-cowboy-replacement-30 = so long
@@ -115,14 +115,14 @@ accent-cowboy-replacement-38 = hog tied
 accent-cowboy-words-39 = hell
 accent-cowboy-replacement-39 = tarnation
 
-accent-cowboy-words-40 = hello
-accent-cowboy-replacement-40 = howdy
+accent-cowboy-words-40 = привіт
+accent-cowboy-replacement-40 = здоров
 
-accent-cowboy-words-41 = hey
-accent-cowboy-replacement-41 = howdy
+accent-cowboy-words-41 = хей
+accent-cowboy-replacement-41 = здоров
 
-accent-cowboy-words-42 = hi
-accent-cowboy-replacement-42 = howdy
+accent-cowboy-words-42 = вітаю
+accent-cowboy-replacement-42 = здоров
 
 accent-cowboy-words-43 = hungry
 accent-cowboy-replacement-43 = peckish
