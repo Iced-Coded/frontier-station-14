@@ -1,20 +1,24 @@
 <p align="center"> <img alt="Frontier Station 14" width="880" height="300" src="https://github.com/new-frontiers-14/frontier-station-14/blob/30cdc70d8fcbf52f949337150bf42338ececbd80/Resources/Textures/Logo/logo.png?raw=true" /></p>
 
-Frontier Station 14 is a fork of [Space Station 14](https://github.com/space-wizards/space-station-14) that runs on [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), our homegrown engine written in C#.
+Frontier Station 14 це форк [Space Station 14](https://github.com/space-wizards/space-station-14) котра працює на [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), ігровому двигуні котрий працює на С#.
 
-This is the primary repo for Frontier Station 14.
+Цей репозиторій це перекладом на українську ориганльної [Frontier Station 14](https://github.com/new-frontiers-14/frontier-station-14)
 
-If you want to host or create content for FS14, this is the repo you need. It contains both RobustToolbox and the content pack for development of new content packs.
+Якщо ви хочете хостити FS14, то цей репозиторій для вас, проте, якщо ви хочете створювати контент для FS14, то рекомендуємо використовувати оригінальну [Frontier Station 14](https://github.com/new-frontiers-14/frontier-station-14), так як вона оновлюється першою.
 
-## Links
+## Посилання
 
+Оригінальні:
 [Discord](https://discord.gg/tpuAT7d3zm/) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/)
 
-## Documentation/Wiki
+Від автора форку:
+[Discord](https://discord.gg/tpuAT7d3zm/)
 
-Our [wiki](https://frontierstation14.com/) has documentation on FS14s content.
+## Документація/вікі
 
-## Contributing
+Офіційна [вікі](https://frontierstation14.com/) має статті про шатли, професії та ін.
+
+## Зробити внески
 
 We are happy to accept contributions from anybody. Get in Discord if you want to help. We've got a [list of ideas](https://discord.com/channels/1123826877245694004/1127017858833068114) that can be done and anybody can pick them up. Don't be afraid to ask for help either!
 
@@ -31,7 +35,7 @@ Any changes made to files belonging to our upstream should be properly marked in
 
 [More detailed instructions on building the project.](https://docs.spacestation14.com/en/general-development/setup.html)
 
-## License
+## Юридична інформація
 
 Content contributed to this repository after commit 2fca06eaba205ae6fe3aceb8ae2a0594f0effee0 is licensed under the GNU Affero General Public License version 3.0, unless otherwise stated. See `LICENSE-AGPLv3.txt`.
 Content contributed to this repository before commit 2fca06eaba205ae6fe3aceb8ae2a0594f0effee0 is licensed under the MIT license, unless otherwise stated. See `LICENSE-MIT.txt`.
