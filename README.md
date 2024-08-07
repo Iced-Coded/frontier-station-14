@@ -20,7 +20,7 @@ Frontier Station 14 це форк [Space Station 14](https://github.com/space-wi
 
 ## Зробити внески
 
-На даний момент, цей форк це просто переклад оригінального репозиторія. Кожна людина може прийняти участь та зробити внесок, все що треба, так це знання [Git](https://git-scm.com/), англійської та української мови.
+На даний момент, цей форк це просто переклад оригінального репозиторія. Кожна людина може прийняти участь та зробити внесок, все що треба, так це знання [Git](https://git-scm.com/), англійської та української мови, самі файли локалізації знаходяться [ось тут](https://github.com/Iced-Coded/frontier-station-14/tree/master/Resources/Locale/ua-UA).
 
 We are happy to accept contributions from anybody. Get in Discord if you want to help. We've got a [list of ideas](https://discord.com/channels/1123826877245694004/1127017858833068114) that can be done and anybody can pick them up. Don't be afraid to ask for help either!
 
