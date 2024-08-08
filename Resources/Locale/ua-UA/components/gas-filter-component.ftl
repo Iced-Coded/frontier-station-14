@@ -1,6 +1,6 @@
-comp-gas-filter-ui-filter-status = Status:
-comp-gas-filter-ui-status-enabled = On
-comp-gas-filter-ui-status-disabled = Off
+comp-gas-filter-ui-filter-status = Статус:
+comp-gas-filter-ui-status-enabled = Увімкнути
+comp-gas-filter-ui-status-disabled = Ввімкнути
 
 comp-gas-filter-ui-filter-transfer-rate = Transfer Rate (L/s):
 comp-gas-filter-ui-filter-set-rate = Set
