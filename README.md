@@ -12,7 +12,7 @@ Frontier Station 14 це форк [Space Station 14](https://github.com/space-wi
 [Discord](https://discord.gg/tpuAT7d3zm/) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/)
 
 Від автора форку:
-[Discord](https://discord.gg/tpuAT7d3zm/)
+[Discord](https://discord.gg/2V9pQpC2ug)
 
 ## Документація/вікі
 
