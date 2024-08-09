@@ -217,7 +217,7 @@ flavor-complex-coffee = як кава
 flavor-complex-milk = як молоко
 flavor-complex-tea = як чай
 flavor-complex-ice = як лід
-flavor-complex-mopwata = як застійна, грязна вода
+flavor-complex-mopwata = як застійна, брудна вода
 
 ## Cocktails
 flavor-complex-arnold-palmer = як перемога
