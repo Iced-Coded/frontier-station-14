@@ -1,9 +1,10 @@
-# Reporting a security vulnerability
-You can report a security vulnerability through Discord or through email.
+# Як повідомити про вразливіть?
+Ані Iced-Coffee, ані new-frontiers-14 відповідають за вразливості, за них відповідають самі Space Wizards.
 
-If you want to send an email, you can contact us at <telecommunications@spacestation14.com>.
-If you want to contact us through Discord, you can join [our server](https://discord.gg/MwDDf6t)
-and then **privately** message anyone with the `@Wizard` or `@SS14 Maintainer` role.
+Загалом, написати Space Wizard-ам можна або елекронною поштою, або, через Discord.
 
-In either case, **do not publicly disclose the vulnerability until we explicitly give
-you permission to do so**.
+Якщо ви хочете зв'язатися з Space Wizard через пошту, то це можна зробити написавши на <telecommunications@spacestation14.com>.
+Але, якщо вам більш зручний Discord, то тоді приєднайтеся до сервера [SS14](https://discord.gg/MwDDf6t)
+і потім напишіть у **особисті** повідомлення будь-кому хто має роль `@Wizard` або `@SS14 Maintainer`.
+
+У будь-якому випадку, **заборонено оприлюднювати інформацію про вразливості у коді Space Station 14, якщо вам не був наданий особистий дозвіл від Space Wizard-ів**.
