@@ -2,15 +2,15 @@
 
 chat-manager-max-message-length = Ваше повідомлення довше за встановлений ліміт у {$maxMessageLength} літер.
 chat-manager-ooc-chat-enabled-message = OOC чат був увімкнений.
-chat-manager-ooc-chat-disabled-message = OOC чат був ввімкнений.
+chat-manager-ooc-chat-disabled-message = OOC чат був вимкнений.
 chat-manager-looc-chat-enabled-message = LOOC чат був увімкнений.
-chat-manager-looc-chat-disabled-message = LOOC чат був ввімкнений
+chat-manager-looc-chat-disabled-message = LOOC чат був вимкнений
 chat-manager-dead-looc-chat-enabled-message = Мертві гравці тепер можуть використовувати LOOC.
 chat-manager-dead-looc-chat-disabled-message = Мертві гравці тепер не можуть використовувати LOOC.
 chat-manager-crit-looc-chat-enabled-message = Гравці в критичному стані тепер можуть використовувати LOOC.
 chat-manager-crit-looc-chat-disabled-message = Гравці в критичному стані тепер не можуть використовувати LOOC.
 chat-manager-admin-ooc-chat-enabled-message = Адмінський OOC чат був увімкнений.
-chat-manager-admin-ooc-chat-disabled-message = Адмінський OOC чат був ввімкнений.
+chat-manager-admin-ooc-chat-disabled-message = Адмінський OOC чат був вимкнений.
 
 chat-manager-max-message-length-exceeded-message = Ваше повідомлення довше за ліміт у {$limit} літер.
 chat-manager-no-headset-on-message = У вас нема навушників!
