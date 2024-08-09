@@ -1,2 +1,2 @@
-emag-success = Картка видає дивний звук у {THE($target)}.
+emag-success = Картка видає дивний звук у {($target)}.
 emag-no-charges = Немає зарядів!
