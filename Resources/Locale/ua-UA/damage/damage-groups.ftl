@@ -1,5 +1,5 @@
-damage-group-brute = Brute
-damage-group-burn = Burn
-damage-group-airloss = Airloss
-damage-group-toxin = Toxin
-damage-group-genetic = Genetic
+damage-group-brute = Груба
+damage-group-burn = Опіки
+damage-group-airloss = Втрата повітря
+damage-group-toxin = Токсини
+damage-group-genetic = Генетична

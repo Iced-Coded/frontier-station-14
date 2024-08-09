@@ -1,15 +1,15 @@
 ﻿## Damage command loc.
 
-damage-command-description = Add or remove damage to an entity. 
+damage-command-description = Завдайте або приберіть шкоду цілі.
 damage-command-help = Usage: {$command} <type/group> <amount> [ignoreResistances] [uid]
 
 damage-command-arg-type = <damage type or group>
 damage-command-arg-quantity = [quantity]
 damage-command-arg-target = [target euid]
 
-damage-command-error-type = {$arg} is not a valid damage group or type.
-damage-command-error-euid = {$arg} is not a valid entity uid.
-damage-command-error-quantity = {$arg} is not a valid quantity.
-damage-command-error-bool = {$arg} is not a valid bool.
-damage-command-error-player = No entity attached to session. You must specify a target uid
-damage-command-error-args = Invalid number of arguments 
+damage-command-error-type = {$arg} не є дійсним типом або группи шкоди.
+damage-command-error-euid = {$arg} не є дісним uid об'єкту.
+damage-command-error-quantity = {$arg} не є дійсною кількістю.
+damage-command-error-bool = {$arg} не є дійсним логічним числом.
+damage-command-error-player = Немає об'єкта прив'язанного до вибранної сессії. Замість цього, ви мусите вказати uid об'єкту
+damage-command-error-args = Недійсний номер аргументів
