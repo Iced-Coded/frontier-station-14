@@ -1,16 +1,16 @@
 # Command
-cmd-faxui-desc = Open admin window for sending faxes
-cmd-faxui-help = Usage: faxui
+cmd-faxui-desc = Відкрити адміністраторське меню для надсилання факсів
+cmd-faxui-help = Використання: faxui
 
 # Window
-admin-fax-title = Admin Fax Manager
-admin-fax-fax = Fax:
-admin-fax-follow = Follow
-admin-fax-title-placeholder = Paper name...
-admin-fax-from-placeholder = Stamped by...
-admin-fax-message-placeholder = Your message here...
-admin-fax-stamp = Stamp icon:
-admin-fax-stamp-color = Stamp color:
-admin-fax-send = Send
-admin-fax-lock-page = Lock Page
-admin-fax-lock-page-tooltip = Lock the paper such that it cannot be edited even by things such as cybersun pens.
+admin-fax-title = Адмінський Факс
+admin-fax-fax = Факс:
+admin-fax-follow = Стежити
+admin-fax-title-placeholder = Назва паперу...
+admin-fax-from-placeholder = Печатка від...
+admin-fax-message-placeholder = Ваше повідомлення тут...
+admin-fax-stamp = Зображення печатки:
+admin-fax-stamp-color = Колір печатки:
+admin-fax-send = Відправити
+admin-fax-lock-page = Заблокувати папір
+admin-fax-lock-page-tooltip = Заблокувати папір, аби не можна було вносити подальші зміни будь-яким чином.
