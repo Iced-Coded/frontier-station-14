@@ -1,50 +1,50 @@
 ## General stuff
 
-ui-options-title = Game Options
-ui-options-tab-accessibility = Accessibility
-ui-options-tab-graphics = Graphics
-ui-options-tab-controls = Controls
-ui-options-tab-audio = Audio
-ui-options-tab-network = Network
-ui-options-tab-misc = General
+ui-options-title = Опції
+ui-options-tab-accessibility = Доступність
+ui-options-tab-graphics = Графіка
+ui-options-tab-controls = Керування
+ui-options-tab-audio = Аудіо
+ui-options-tab-network = Мережа
+ui-options-tab-misc = Загальні
 
-ui-options-apply = Save & apply
-ui-options-reset-all = Reset changed
-ui-options-default = Reset to defaults
+ui-options-apply = Зберегти та застосувати
+ui-options-reset-all = Скинути змінене
+ui-options-default = За замовчуванням
 
 ui-options-value-percent = { TOSTRING($value, "P0") }
 
 # Misc/General menu
 
-ui-options-discordrich = Enable Discord Rich Presence
-ui-options-general-ui-style = UI Style
+ui-options-discordrich = Увімкнути Discord Rich Presence
+ui-options-general-ui-style = Стиль UI
 ui-options-general-discord = Discord
-ui-options-general-cursor = Cursor
-ui-options-general-speech = Speech
-ui-options-general-storage = Storage
-ui-options-general-accessibility = Accessibility
+ui-options-general-cursor = Курсор
+ui-options-general-speech = Говір
+ui-options-general-storage = Зберігання
+ui-options-general-accessibility = Доступність
 
 ## Audio menu
 
-ui-options-master-volume = Master Volume:
-ui-options-midi-volume = MIDI (Instrument) Volume:
-ui-options-ambient-music-volume = Ambient music volume:
-ui-options-ambience-volume = Ambience volume:
-ui-options-lobby-volume = Lobby & Round-end volume:
-ui-options-interface-volume = Interface volume:
-ui-options-ambience-max-sounds = Ambience simultaneous sounds:
-ui-options-lobby-music = Lobby & Round-end Music
-ui-options-restart-sounds = Round Restart Sounds
-ui-options-event-music = Event Music
-ui-options-admin-sounds = Play Admin Sounds
-ui-options-volume-label = Volume
+ui-options-master-volume = Основна Гучність:
+ui-options-midi-volume = Гучність MIDI (Музичні Інструменти):
+ui-options-ambient-music-volume = Гучність ємбієнтної музики:
+ui-options-ambience-volume = Гучність ємбієнту:
+ui-options-lobby-volume = Гучність музики в лоббі та в кінці раунду:
+ui-options-interface-volume = Гучність інтерфейсу:
+ui-options-ambience-max-sounds = Гучність різноманітного ємбієнту:
+ui-options-lobby-music = Музика в лоббі та в кінці раунду
+ui-options-restart-sounds = Звуки перезавантаження раунду
+ui-options-event-music = Музика подій
+ui-options-admin-sounds = Програвати звуки адмінів
+ui-options-volume-label = Гучність
 
 ## Graphics menu
 
-ui-options-display-label = Display
-ui-options-quality-label = Quality
-ui-options-misc-label = Misc
-ui-options-interface-label = Interface
+ui-options-display-label = Дисплей
+ui-options-quality-label = Якість
+ui-options-misc-label = Інше
+ui-options-interface-label = Інтерфейс
 
 
 ui-options-show-held-item = Show held item next to cursor

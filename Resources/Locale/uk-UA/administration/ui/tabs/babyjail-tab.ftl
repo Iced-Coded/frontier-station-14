@@ -1,16 +1,16 @@
-﻿admin-ui-baby-jail-window-title = Baby Jail
+﻿admin-ui-baby-jail-window-title = Дитсадок
 
-admin-ui-baby-jail-enabled = Baby Jail Enabled
-admin-ui-baby-jail-disabled = Baby Jail Disabled
-admin-ui-baby-jail-tooltip = The baby jail restricts players from joining if their account is too old or they do have too much overall playtime on this server.
+admin-ui-baby-jail-enabled = Дитсадок увімк.
+admin-ui-baby-jail-disabled = Дитсадок вимк.
+admin-ui-baby-jail-tooltip = Дитсадок забороняє гравцям приєднуватися до серверу, якщо їх обліковий запис занадто старий або якщо у них забагато загального часу гри на цьому сервері.
 
-admin-ui-baby-jail-show-reason = Show Reason
-admin-ui-baby-jail-show-reason-tooltip = Show the user why they were blocked from connecting by the baby jail.
+admin-ui-baby-jail-show-reason = Показувати причину
+admin-ui-baby-jail-show-reason-tooltip = Показувати користувачу, що його з'єднання було заблоковано через активний "Дитсадок"
 
-admin-ui-baby-jail-max-account-age = Max. Account Age
-admin-ui-baby-jail-max-overall-minutes = Max. Overall Playtime
+admin-ui-baby-jail-max-account-age = Макс. Вік Облікового запису
+admin-ui-baby-jail-max-overall-minutes = Макс. Загальний час гри
 
-admin-ui-baby-jail-is-enabled = [font size=20][bold]The baby jail is currently enabled.[/bold][/font]
+admin-ui-baby-jail-is-enabled = [font size=20][bold]На даний момент активна система "Дитсадок".[/bold][/font]
 
-admin-ui-baby-jail-enabled-admin-alert = The baby jail has been enabled.
-admin-ui-baby-jail-disabled-admin-alert = The baby jail has been disabled.
+admin-ui-baby-jail-enabled-admin-alert = Дитсадок був увімкнений.
+admin-ui-baby-jail-disabled-admin-alert = Дитсадок був вимкнений.
