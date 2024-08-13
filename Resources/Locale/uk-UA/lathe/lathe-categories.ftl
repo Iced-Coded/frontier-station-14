@@ -1,11 +1,10 @@
-lathe-category-ammo = Ammo
-lathe-category-circuitry = Circuitry
-lathe-category-lights = Lights
-lathe-category-mechs = Mechs
-lathe-category-parts = Parts
-lathe-category-robotics = Robotics
-lathe-category-tools = Tools
-lathe-category-weapons = Weapons
-# Frontier lines below
+lathe-category-ammo = Боєприпаси
+lathe-category-circuitry = Схеми
+lathe-category-lights = Світло
+lathe-category-mechs = Механіка
+lathe-category-parts = Запчастини
+lathe-category-robotics = Роботехніка
+lathe-category-tools = Інструменти
+lathe-category-weapons = Зброя
 lathe-category-evasuits = EVA
-lathe-category-armor-nf = Armor
+lathe-category-armor-nf = Броня
