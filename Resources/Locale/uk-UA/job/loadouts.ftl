@@ -1,2 +1,2 @@
-loadout-window = Loadout
-loadout-none = None
+loadout-window = Лоад-аут
+loadout-none = Нічого

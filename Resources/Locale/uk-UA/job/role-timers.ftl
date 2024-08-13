@@ -1,10 +1,10 @@
-﻿role-timer-department-insufficient = You require [color=yellow]{TOSTRING($time, "0")}[/color] more minutes of [color={$departmentColor}]{$department}[/color] department playtime to play this role.
-role-timer-department-too-high = You require [color=yellow]{TOSTRING($time, "0")}[/color] fewer minutes in [color={$departmentColor}]{$department}[/color] department to play this role. (Are you trying to play a trainee role?)
-role-timer-overall-insufficient = You require [color=yellow]{TOSTRING($time, "0")}[/color] more minutes of playtime to play this role.
-role-timer-overall-too-high = You require [color=yellow]{TOSTRING($time, "0")}[/color] fewer minutes of playtime to play this role. (Are you trying to play a trainee role?)
-role-timer-role-insufficient = You require [color=yellow]{TOSTRING($time, "0")}[/color] more minutes with [color={$departmentColor}]{$job}[/color] to play this role.
-role-timer-role-too-high = You require[color=yellow] {TOSTRING($time, "0")}[/color] fewer minutes with [color={$departmentColor}]{$job}[/color] to play this role. (Are you trying to play a trainee role?)
+﻿role-timer-department-insufficient = Вам треба ще [color=yellow]{TOSTRING($time, "0")}[/color] хвилин гри у [color={$departmentColor}]{$department}[/color] відділі аби грати на цій ролі.
+role-timer-department-too-high = Ви більше не можете грати на ролях для новачків, так як у вас забагато награного часу у [color={$departmentColor}]{$department}[/color] департаменті.
+role-timer-overall-insufficient = Вам треба [color=yellow]{TOSTRING($time, "0")}[/color] більше хвилин загального награного часу аби грати на цій ролі.
+role-timer-overall-too-high = Вам треба [color=yellow]{TOSTRING($time, "0")}[/color] меньше загального награного часу аби грати на цій ролі.
+role-timer-role-insufficient = Вам треба [color=yellow]{TOSTRING($time, "0")}[/color] більше хвилин за [color={$departmentColor}]{$job}[/color] аби грати на цій ролі.
+role-timer-role-too-high = Вам треба [color=yellow] {TOSTRING($time, "0")}[/color] меньше хвилин за [color={$departmentColor}]{$job}[/color] аби грати на цій ролі.
 
-role-timer-locked = Locked (hover for details)
+role-timer-locked = Закрито (наведіть мишкою аби дізнатися більше)
 
-role-ban = You have been banned from this role.
+role-ban = У вас стоїть рольбан на цю роль.

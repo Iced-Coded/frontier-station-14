@@ -1,8 +1,8 @@
 department-Cargo = `
-department-Civilian = Civilian
-department-Command = Frontier Command
+department-Civilian = Цивільні
+department-Command = Командування Прикордоння
 department-Engineering = `
 department-Medical = `
-department-Security = New Frontier Sheriff's Department
+department-Security = Департамент Шерифу Нового Прикордоння
 department-Science = `
 department-Specific = `
