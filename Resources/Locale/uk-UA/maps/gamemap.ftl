@@ -1,1 +1,1 @@
-gamemap-could-not-use-map-error = Failed to load map {$oldMap} due to it no longer being eligible! Picking {$newMap} instead.
+gamemap-could-not-use-map-error = Не вдалося завантажити мапу {$oldMap} через те, що її більше не існує! Обираю натомість {$newMap}.
